@@ -1,4 +1,4 @@
-.ortala{
+.medium{
 
     text-align: center;
 
@@ -16,7 +16,7 @@
 
 }
 
-.aramaKutusu{
+.searchbox{
 
     height: 22px;
 
@@ -38,7 +38,7 @@
 
 }
 
-.aramaKutusu2{
+.searchbox2{
 
     margin-right: auto;
 
@@ -50,9 +50,9 @@
 
     width:250px;
 
-    background-color:white;
+    background-color:#fff;
 
-    border: black;
+    border: #000;
 
     border-width: 1px;
 
@@ -70,7 +70,7 @@
 
     border-width: 1px;
 
-    border-color: black;
+    border-color: #000;
 
     border-radius: 3px;
 
@@ -92,7 +92,7 @@
 
     border-width: 2px;
 
-    border-color: black;
+    border-color: #000;
 
     border-radius: 2px;
 
@@ -120,7 +120,7 @@
 
 }
 
-.sol{
+.left{
 
     float: left;
 
